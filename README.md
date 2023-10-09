@@ -6,9 +6,8 @@ Yotty is the tool: Quick access to your Google Calendar via Google API!
 
 | daily | weekly |
 |---|---|
-| <img width="732" alt="Screenshot 2023-10-10 at 0 37 34" src="https://github.com/blue0513/Yotty/assets/8979468/c3252226-87b7-4f64-b251-9ca91e7f5e8e"> | <img width="725" alt="Screenshot 2023-10-10 at 0 37 48" src="https://github.com/blue0513/Yotty/assets/8979468/18a1bbe1-6cfb-480f-b621-c95b3fde9980"> |
+| <img width="732" alt="Screenshot 2023-10-10 at 0 37 34" src="https://github.com/blue0513/Yotty/assets/8979468/26723d70-9b4e-4460-8868-37a2fbbd495d"> | <img width="725" alt="Screenshot 2023-10-10 at 0 37 48" src="https://github.com/blue0513/Yotty/assets/8979468/df48cb8b-5c02-486d-9e9f-fd3b9a5748be"> |
  
-
 ## Setup
 
 ```shell
