@@ -1,0 +1,16 @@
+{
+    "name": "Yotty",
+    "version": "1.0.0",
+    "scripts": {
+        "eslint": "npx eslint src/*.js",
+        "eslint-fix": "npx eslint --fix src/*.js",
+        "prettier": "npx prettier --check src/*.js *.html",
+        "prettier-fix": "npx prettier --write src/*.js *.html",
+        "fix-all": "npm run eslint-fix && npm run prettier-fix",
+        "check-all": "npm run eslint && npm run prettier"
+    },
+    "devDependencies": {
+        "eslint": "^8.50.0",
+        "prettier": "3.0.3"
+    }
+}

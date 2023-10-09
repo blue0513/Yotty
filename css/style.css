@@ -1,0 +1,25 @@
+body {
+    height: 550px;
+    width: 700px;
+}
+
+.centered {
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loader {
+    width: 150px;
+    height: 150px
+}
+
+.tippy-tooltip.custom-theme {
+    overflow-wrap: break-word;
+    pointer-events: auto;
+}
+
+a:link, a:active, a:visited, a:hover, a:focus {
+    color: #ADD8E6;
+}
